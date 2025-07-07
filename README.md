@@ -59,12 +59,15 @@ Foram realizados os seguintes testes para garantir a robustez do projeto:
 
 ## Bibliotecas e Frameworks
 
-<img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/-n8n-FF6A3D?style=flat&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-n8n-FF6A3D?style=flat&logo=n8n&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+</p>
+
 
 ---
 
