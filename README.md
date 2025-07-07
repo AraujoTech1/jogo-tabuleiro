@@ -40,11 +40,6 @@ Foram realizados os seguintes testes para garantir a robustez do projeto:
 - CORS controlado no backend
 - Sanitização dos dados recebidos antes do envio à IA
 
-### ✅ Captura do Teste Realizado
-
-> 🎥 *GIF ou print de movimentação + resposta do inimigo (simulado com IA)*  
-> *(Adicionar captura futuramente com hero movendo e IA respondendo visualmente no tabuleiro)*
-
 ---
 
 ## Tecnologias e Linguagens
